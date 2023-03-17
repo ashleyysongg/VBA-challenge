@@ -1,6 +1,3 @@
-# Query: 
-# ContextLines: 1
-
 Sub Stock()
 
 'Define variables for worksheet
